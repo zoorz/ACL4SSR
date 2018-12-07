@@ -7013,3 +7013,9 @@
 # BBC Learning English
 (^|\.)akamaitechnologies\.com$
 (^|\.)sl-reverse\.com$
+
+# Drops Learning Language
+(^|\.)ec2-52-0-96-90.compute-1.amazonaws.com
+(^|\.)us-west-2.compute.amazonaws.com
+(^|\.)compute-1.amazonaws.com
+(^|\.)cloudfront.net

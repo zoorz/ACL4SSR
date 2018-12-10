@@ -7021,6 +7021,10 @@
 (^|\.)cloudfront.net
 
 # TikTok App
+(^|\.)ec2-18-203-24-153.eu-west-1.compute.amazonaws.com
+(^|\.)ec2-52-19-27-93.eu-west-1.compute.amazonaws.com
 (^|\.)eu-west-1.compute.amazonaws.com
+(^|\.)compute.amazonaws.com
+(^|\.)amazonaws.com
 
 (^|\.)blog\.martinoei\.com$

@@ -7020,6 +7020,13 @@
 (^|\.)compute-1.amazonaws.com
 (^|\.)cloudfront.net
 
+# VSCO
+(^|\.)ec2-54-245-3-220.us-west-2.compute.amazonaws.com
+(^|\.)ec2-52-34-187-176.us-west-2.compute.amazonaws.com
+(^|\.)183.34.211.130.bc.googleusercontent.com
+(^|\.)us-west-2.compute.amazonaws.com
+(^|\.)compute.amazonaws.com
+
 # TikTok App
 # (^|\.)ec2-18-203-24-153.eu-west-1.compute.amazonaws.com
 # (^|\.)ec2-52-19-27-93.eu-west-1.compute.amazonaws.com

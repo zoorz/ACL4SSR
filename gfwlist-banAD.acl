@@ -7034,4 +7034,7 @@
 # (^|\.)compute.amazonaws.com
 # (^|\.)amazonaws.com
 
+# shoupa 网
+# (^|\.)shoupa.com
+
 (^|\.)blog\.martinoei\.com$
